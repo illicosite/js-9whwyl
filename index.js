@@ -8,7 +8,7 @@ createApp({
   },
   setup() {
     const groceryList = ref([
-      { id: 0, text: 'Vegetablesytooo' },
+      { id: 0, text: 'Vegetablesytooohghghj' },
       { id: 1, text: 'Cheese' },
       { id: 2, text: 'Whatever else humans are supposed to eat' },
     ]);
